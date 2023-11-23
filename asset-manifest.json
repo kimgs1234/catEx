@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catEx/static/css/main.02baaa1c.css",
+    "main.js": "/catEx/static/js/main.75322a97.js",
+    "index.html": "/catEx/index.html",
+    "main.02baaa1c.css.map": "/catEx/static/css/main.02baaa1c.css.map",
+    "main.75322a97.js.map": "/catEx/static/js/main.75322a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02baaa1c.css",
+    "static/js/main.75322a97.js"
+  ]
+}
